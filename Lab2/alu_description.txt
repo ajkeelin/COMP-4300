@@ -1,0 +1,23 @@
+Operation 1: Unsigned addition
+Operation 2: Unsigned addition with overflow
+Operation 3: Unsigned subtraction
+Operation 4: Unsigned subtraction with underflow
+Operation 5: 2's complement addition
+Operation 6: 2's complement addition with overflow
+Operation 7: 2's complement subtraction
+Operation 8: 2's complement subtraction with underflow
+Operation 9: 2's complement multiplication
+Operation 10: 2's complement division
+Operation 11: 2's complement division with divide by zero
+Operation 12: logical AND, return true  
+Operation 13: logical AND, return false
+Operation 14: bitwise AND
+Operation 15: bitwise AND
+Operation 16: logical OR, return true
+Operation 17: logical OR, return false
+Operation 18: bitwise OR
+Operation 19: bitwise OR
+Operation 20: logical NOT, return true
+Operation 21: logical NOT, return false
+Operation 22: bitwise NOT
+Operation 23-26: Return all 0's
