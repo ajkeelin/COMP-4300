@@ -1,0 +1,2 @@
+Operations 1-4: Write values to the register, clock is 1
+Operations 5-8: Attempt to write values to registers, but clock is 0
